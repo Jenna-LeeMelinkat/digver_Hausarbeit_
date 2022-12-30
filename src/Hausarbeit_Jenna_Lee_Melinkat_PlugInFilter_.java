@@ -1,8 +1,8 @@
+import ij.*;
 import ij.IJ;
 import ij.ImagePlus;
 import ij.process.*;
 import ij.gui.*;
-import java.awt.*;
 import ij.plugin.filter.*;
 
 /**
